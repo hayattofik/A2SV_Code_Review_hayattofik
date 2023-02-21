@@ -20,4 +20,5 @@ class Solution:
             output.append(diffRow)
 
 
-        return 
+        return output
+
